@@ -1,0 +1,15 @@
+.wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    background-color: black;
+    height: 5rem;
+    cursor: pointer;
+}
+
+.wrapper h1{
+    font-family: sans-serif;
+    color: red;
+    font-size: 40px;
+    margin-left: 2rem;
+}

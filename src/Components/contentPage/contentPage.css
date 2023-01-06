@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.pageContainer{
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100vh;
+    width: 100vw;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    z-index: -1;
+}
+
+.pageContainer div{
+    height: 85%;
+    width: 90%;
+}
